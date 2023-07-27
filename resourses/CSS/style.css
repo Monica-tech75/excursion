@@ -1,1 +1,39 @@
-
+body {
+  box-sizing: border-box;
+  
+  border: auto 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: black;
+  width: 100%;
+}
+.header h1{
+  color: whitesmoke;
+  font-size: 50px;
+  font-weight: 400;
+}
+.download {
+  margin-top: 20px;
+}
+h2 {
+  color: whitesmoke;
+  font-size: 42px;
+  font-weight: 300;
+}
+.logo {
+  margin-top: 10px;
+}
+a {
+  font-size: 16px;
+  font-weight: 300;
+  color: aquamarine;
+}
+.photo p {
+  color: grey;
+  font-size: 21px;
+}
+footer {
+  color: gray;
+  text-align: right;
+  margin-right: 30px;
+}
